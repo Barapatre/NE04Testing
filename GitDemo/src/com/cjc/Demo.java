@@ -2,14 +2,14 @@ package com.cjc;
 
 public class Demo {
 	
-	public static void main(String[] args) {
+	
 		
 	public void m1()
 	{
 	System.out.println("CJC Classes");
 	}
 		
-		
+	public static void main(String[] args) {
 	System.out.println("Hello java");
 	System.out.println("Git Demo");
 	System.out.println("Selenium");
